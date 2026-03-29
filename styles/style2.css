@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    background-image: url(../images/background2/IMG-20260328-WA0035~3.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-position: 50% -50%;
+    background-size: 500px;
+}

@@ -1,0 +1,29 @@
+@media screen and (max-width: 1026px) {
+    h2 {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 855px) {
+
+    header {
+        flex-direction: column;
+    }
+
+    main {
+        flex-direction: column;
+    }
+
+    h2 {
+        font-size: 46px;
+        text-align: center;
+    }
+
+    form {
+        align-items: center;
+    }
+
+    article {
+        width: 380px;
+    }
+}
