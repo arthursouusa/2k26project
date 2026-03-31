@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    font-family: Roboto;
+    margin: 0;
+    padding: 80;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+    padding: 0px;
+}
+
+main {
+    padding: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+#contato {
+    padding: 40px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+span {
+    text-decoration: underline;
+}
+
