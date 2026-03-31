@@ -15,15 +15,30 @@
     }
 
     h2 {
-        font-size: 46px;
+        font-size: 55px;
         text-align: center;
     }
 
     form {
         align-items: center;
+        margin: 0px auto;
+    }
+
+    input {
+        padding-right: 35px;
+        padding-left: 35px;
     }
 
     article {
         width: 380px;
+    }
+
+    #title2 {
+        font-size: 35px;
+        margin-top: 80px;
+    }
+
+    #title > img {
+        width: 80px;
     }
 }
