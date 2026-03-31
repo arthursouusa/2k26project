@@ -31,15 +31,17 @@
 
     article {
         width: 380px;
+        margin: 0 auto;
     }
 
     #title2 {
         font-size: 35px;
         margin-top: 80px;
+        text-align: center;
     }
 
     p {
-        width: 425px;
+        width: 360px;
     }
 
     #title > img {
