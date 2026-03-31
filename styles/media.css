@@ -38,6 +38,10 @@
         margin-top: 80px;
     }
 
+    article {
+        width: 90%;
+    }
+
     #title > img {
         width: 80px;
     }
