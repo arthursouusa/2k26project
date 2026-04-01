@@ -2,9 +2,40 @@
 
 body {
     background-color: black;
-    background-image: url(../images/background2/IMG-20260328-WA0035~3.jpg);
+    background-image: none url('../images/background2/IMG-20260328-WA0035~3.jpg');
     color: white;
     background-repeat: no-repeat;
-    background-position: 50% -50%;
+    background-position: center top;
     background-size: 500px;
+    font-family: Poppins;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+}
+
+div > a {
+    border: 2px solid blue;
+    border-radius: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    color: white;
+}
+
+#title1 {
+    line-height: 30px;
+    text-align: center;
+    font-size: 25px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Bungee Inline;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+.azul {
+    color: rgb(149, 149, 255);
 }
