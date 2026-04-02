@@ -28,11 +28,6 @@ h1 {
     font-style: italic;
 }
 
-#boldh1 {
-    font-weight: 600;
-    color: #9628F5;
-}
-
 li {
     display: inline-block;
     margin: 20px;
