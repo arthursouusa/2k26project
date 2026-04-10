@@ -1,0 +1,50 @@
+@media (max-width: 768px) {
+    header {
+        flex-direction: column-reverse;
+        padding: 40px 10px;
+    }
+
+    .menu {
+        position: static;
+        margin-bottom: 30px;
+        align-self: center;
+    }
+
+    .menu > a {
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+
+    #title1 {
+        font-size: 25px;
+        line-height: 15px;
+    }
+
+    #h1title {
+        font-size: 28px;
+    }
+
+    #title1 img {
+        width: 120px;
+    }
+
+    .produtobtm {
+    width: 90%; 
+    margin: 10px auto;
+    padding: 0;    
+    position: relative;
+    left: 0;       
+}
+
+.produtobtm > a {
+    font-size: 16px;
+    padding: 15px 10px;
+    width: 100%;
+    box-sizing: border-box; 
+    display: block;
+}
+
+    #gráfico {
+        width: 80%;
+    }
+}
